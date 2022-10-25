@@ -1,0 +1,15 @@
+{
+  "name": "arcgis-oauth-pcke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_code_challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "crypto": "^1.0.1"
+  }
+}
