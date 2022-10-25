@@ -15,7 +15,7 @@ let crypto;
 try {
   crypto = require("crypto");
 } catch (err) {
-  console.log('crypto support is disabled!');
+  console.log('Run $npm install first!');
 }
 
 function base64URLEncode(str) {
